@@ -31,4 +31,5 @@
 /config/master.key
 
 # Ignore idea
-.idea/*
+.idea/**/workspace.xmls
+.idea/**
